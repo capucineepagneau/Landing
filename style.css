@@ -66,11 +66,7 @@ p {
 	color: #5E4641
 }
 
-#liste {
-	list-style-type: none;
-	list-style-position: horizontal;
-}
-
 .form {
 	padding-top: 40px;
+	padding-left: 20px;
 }
