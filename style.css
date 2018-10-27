@@ -1,0 +1,76 @@
+body {
+	background-color: #FFF8F0;
+}
+h1	{
+	font-family: 'Chewy', cursive;
+}
+p {
+	font-family: 'Gothic A1', sans-serif;
+}
+
+#quisommesnous {
+	text-decoration: none;
+	color: #5E4641;
+}
+#quisommesnous:hover {
+	color: #B2857B;
+}
+
+#recipe {
+	text-decoration: none;
+	color: #5E4641;
+	background-color: #FFF8F0;
+}
+#recipe:hover {
+	color: #B2857B;
+}
+
+#us {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+
+.banner {
+	font-size: 20px;
+	height: 200px;
+	text-align: center;
+	color: white;
+	background-image: url("images/potimaron2.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 20px;
+}
+
+.we {
+	color: #4F5D75;
+	font-weight: bold;
+	text-align: center;
+	background-color: #FFF8F0;
+	padding-bottom: 30px;
+	padding-top: 20px;
+}
+
+.recettes {
+	text-align:center;
+	background-image: url("images/potimaron1.jpg");
+	height: 60px;
+	padding-top: 11px;
+}
+
+.social {
+	color: #5E4641;
+}
+
+.social:hover {
+	color: #5E4641
+}
+
+#liste {
+	list-style-type: none;
+	list-style-position: horizontal;
+}
+
+.form {
+	padding-top: 40px;
+}
